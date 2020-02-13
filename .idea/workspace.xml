@@ -3,14 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e42df901-bbfa-4218-b578-c0b9c09ea6e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vima.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Vima.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Vima.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Vima.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vima.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vima_secondary.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/general.py" beforeDir="false" afterPath="$PROJECT_DIR$/general.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numOfYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/numOfYear.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rome_century.py" beforeDir="false" afterPath="$PROJECT_DIR$/rome_century.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondary.py" beforeDir="false" afterPath="$PROJECT_DIR$/secondary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weekday.py" beforeDir="false" afterPath="$PROJECT_DIR$/weekday.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$Vima.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,8 +165,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.general" />
-        <item itemvalue="Python.secondary" />
         <item itemvalue="Python.weekday" />
+        <item itemvalue="Python.secondary" />
         <item itemvalue="Python.century" />
         <item itemvalue="Python.numOfYear" />
       </list>
@@ -184,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581584962602</updated>
       <workItem from="1581584965145" duration="5726000" />
-      <workItem from="1581596164929" duration="10000000" />
+      <workItem from="1581596164929" duration="12681000" />
     </task>
     <servers />
   </component>
@@ -192,22 +191,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="135" key="GridCell.Tab.0.bottom" timestamp="1581628443778">
+    <state width="1237" height="135" key="GridCell.Tab.0.bottom" timestamp="1581630980321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581628443778" />
-    <state width="1237" height="135" key="GridCell.Tab.0.center" timestamp="1581628443777">
+    <state width="1237" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581630980321" />
+    <state width="1237" height="135" key="GridCell.Tab.0.center" timestamp="1581630980321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581628443777" />
-    <state width="1237" height="135" key="GridCell.Tab.0.left" timestamp="1581628443777">
+    <state width="1237" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581630980321" />
+    <state width="1237" height="135" key="GridCell.Tab.0.left" timestamp="1581630980320">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581628443777" />
-    <state width="1237" height="135" key="GridCell.Tab.0.right" timestamp="1581628443778">
+    <state width="1237" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581630980320" />
+    <state width="1237" height="135" key="GridCell.Tab.0.right" timestamp="1581630980321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581628443778" />
+    <state width="1237" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581630980321" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1581603643435">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -240,9 +239,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/team_uni$rome_century.coverage" NAME="rome_century Coverage Results" MODIFIED="1581587829954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/team_uni$century.coverage" NAME="century Coverage Results" MODIFIED="1581623907456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/team_uni$weekday.coverage" NAME="weekday Coverage Results" MODIFIED="1581623940591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_uni$weekday.coverage" NAME="weekday Coverage Results" MODIFIED="1581630635127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/team_uni$numOfYear.coverage" NAME="numOfYear Coverage Results" MODIFIED="1581603652567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/team_uni$secondary.coverage" NAME="secondary Coverage Results" MODIFIED="1581626926782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/team_uni$general.coverage" NAME="general Coverage Results" MODIFIED="1581628443767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_uni$secondary.coverage" NAME="secondary Coverage Results" MODIFIED="1581629634151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/team_uni$general.coverage" NAME="general Coverage Results" MODIFIED="1581630980306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
