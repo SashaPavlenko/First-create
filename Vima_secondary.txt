@@ -1,0 +1,15 @@
+\documentclass{article}
+\usepackage[cp1251]{inputenc}
+\usepackage[russian]{babel}
+
+\begin{document}
+Введите дату >>> 25 июля 749
+
+----------------
+
+День недели: понедельник
+
+Век: VIII
+
+Сезон: лето
+\end{document}
