@@ -1,0 +1,15 @@
+\documentclass{article}
+\usepackage[cp1251]{inputenc}
+\usepackage[russian]{babel}
+
+\begin{document}
+Введите дату >>> 13 февраля 2020
+
+----------------
+
+День недели: суббота
+
+Век: XXI
+
+Сезон: зима
+\end{document}
