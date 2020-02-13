@@ -17,7 +17,7 @@ def age(data_age):
     '''
 
     data_age = int(data_age)//100 + 1
-    a = data_age%10
+    a = data_age % 10
     if a>4 and a<9:
         a = 'V'+'I'*(a-5)
     elif a == 4:
@@ -29,10 +29,10 @@ def age(data_age):
     data_age = data_age//10
     b = ''
     while data_age != 0:
-        b = data_age%10
-        b = 'X'*b
+        b = data_age % 10
+        b = 'X' * b
         data_age = data_age//10
-    data_age = b+a
+    data_age = b + a
     return data_age
 
 

@@ -25,7 +25,7 @@ c = century(date_list[2])
 y = numOfYear(date_list[2])
 
 # День недели.
-day_of_week = (d + (13*m-1)//5 + y + y//4 - c//4 +   777) % 7
+day_of_week = (d + (13*m-1)//5 + y + y//4 - c//4 + 777) % 7
 
 print('----------------')
 print('День недели: %s' %week[day_of_week])
